@@ -52,11 +52,17 @@ namespace QLTK
         private void btnXoa_Click(object sender, EventArgs e)
         {
             string user = get();
-            if (user != "")
+            DataGridViewRow p = dataGridView1.SelectedRows[0];
+            string k = p.Cells["Số phút"].Value.ToString();
+            int l = int.Parse(k);
+            if (l == 0)
             {
                 a.xoatk(user);
                 Form1_Load(sender, e);
+                MessageBox.Show("Xóa tài khoản thành công!","Thông báo");
             }
+            else
+                MessageBox.Show("Số phút tài khoản phải bằng 0!","Thông báo");
         }
 
         private void btnDoiMK_Click(object sender, EventArgs e)
