@@ -1,0 +1,5 @@
+C:\Users\xuxut\Downloads\QLTK\TaiKhoan\bin\Debug\TaiKhoan.dll
+C:\Users\xuxut\Downloads\QLTK\TaiKhoan\bin\Debug\TaiKhoan.pdb
+C:\Users\xuxut\Downloads\QLTK\TaiKhoan\obj\Debug\TaiKhoan.csprojResolveAssemblyReference.cache
+C:\Users\xuxut\Downloads\QLTK\TaiKhoan\obj\Debug\TaiKhoan.dll
+C:\Users\xuxut\Downloads\QLTK\TaiKhoan\obj\Debug\TaiKhoan.pdb

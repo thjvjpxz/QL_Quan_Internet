@@ -1,0 +1,7 @@
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\bin\Debug\Ctrl_QLTK.dll
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\bin\Debug\Ctrl_QLTK.pdb
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\bin\Debug\TaiKhoan.dll
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\bin\Debug\TaiKhoan.pdb
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\obj\Debug\Ctrl_QLTK.csprojResolveAssemblyReference.cache
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\obj\Debug\Ctrl_QLTK.dll
+C:\Users\xuxut\Downloads\QLTK\Ctrl_QLTK\obj\Debug\Ctrl_QLTK.pdb

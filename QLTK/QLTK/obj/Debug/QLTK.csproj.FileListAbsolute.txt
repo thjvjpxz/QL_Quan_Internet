@@ -1,0 +1,15 @@
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\QLTK.exe.config
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\QLTK.exe
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\QLTK.pdb
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.csprojResolveAssemblyReference.cache
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.Properties.Resources.resources
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.csproj.GenerateResource.Cache
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.exe
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.pdb
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.QLTK.resources
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\Ctrl_QLTK.dll
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\Ctrl_QLTK.pdb
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\TaiKhoan.dll
+C:\Users\xuxut\Downloads\QLTK\QLTK\bin\Debug\TaiKhoan.pdb
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.FDoiMK.resources
+C:\Users\xuxut\Downloads\QLTK\QLTK\obj\Debug\QLTK.FTaoTK.resources
