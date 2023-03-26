@@ -16,7 +16,7 @@ namespace Controller
             ecapnhatsl = new ECapNhatSLBan();
         }
 
-        public void CapNhatSLBan(int idsp, int soluong)
+        public void CapNhatSLBan(string idsp, int soluong)
         {
             ecapnhatsl.CapNhatSLBan(idsp , soluong);
         }
