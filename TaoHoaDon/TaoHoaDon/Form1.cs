@@ -63,7 +63,7 @@ namespace TaoHoaDon
             int maHD = add.AddHD(tong);
                 for (int i = 0; i < dgvHoaDon.Rows.Count; i++)
                 {
-                    int ID = Convert.ToInt32(dgvHoaDon.Rows[i].Cells["ID"].Value);
+                    string ID = dgvHoaDon.Rows[i].Cells["ID"].Value.ToString();
                     int soLuong = Convert.ToInt32(dgvHoaDon.Rows[i].Cells["Soluong"].Value);
                     insert.insert(maHD, ID, soLuong);
                     capnhatslban.CapNhatSLBan(ID, soLuong);
