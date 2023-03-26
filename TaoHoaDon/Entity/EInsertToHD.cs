@@ -13,7 +13,7 @@ namespace Entity
             a = new HoaDon();
         }
 
-        public void insertToHD(int mahd, int ID, int sl)
+        public void insertToHD(int mahd, string ID, int sl)
         {
             a.inserttoHD(mahd, ID, sl);
         }
