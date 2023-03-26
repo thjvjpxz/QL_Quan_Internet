@@ -50,7 +50,7 @@ namespace Entity
             return maHD;
         }
 
-        public void inserttoHD(int maHD, int ID, int soLuong)
+        public void inserttoHD(int maHD, string ID, int soLuong)
         {
             SqlConnection con = new SqlConnection(chuoiketnoi);
             con.Open();
@@ -63,7 +63,7 @@ namespace Entity
             con.Close();
         }
 
-        public void CapNhatSLBan(int IDSP, int soLuong)
+        public void CapNhatSLBan(string IDSP, int soLuong)
         {
             SqlConnection con = new SqlConnection(chuoiketnoi);
             string selectQuery = "SELECT SCOPE_IDENTITY()";
