@@ -1,0 +1,21 @@
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\bin\Debug\Controller.dll
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\bin\Debug\Controller.pdb
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\bin\Debug\Entity.dll
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\bin\Debug\Entity.pdb
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\obj\Debug\Controller.dll
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\obj\Debug\Controller.pdb
+C:\Users\xuxut\Downloads\TaoHoaDon\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\bin\Debug\Controller.dll
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\bin\Debug\Controller.pdb
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\bin\Debug\Entity.dll
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\bin\Debug\Entity.pdb
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\obj\Debug\Controller.dll
+C:\Users\Admin\Desktop\TaoHoaDon\Controller\obj\Debug\Controller.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\bin\Debug\Controller.dll
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\bin\Debug\Controller.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\bin\Debug\Entity.dll
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\bin\Debug\Entity.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\obj\Debug\Controller.dll
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\obj\Debug\Controller.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Controller\obj\Debug\Controller.csprojResolveAssemblyReference.cache

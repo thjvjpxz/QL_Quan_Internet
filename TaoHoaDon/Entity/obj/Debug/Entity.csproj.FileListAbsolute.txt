@@ -1,0 +1,15 @@
+C:\Users\xuxut\Downloads\TaoHoaDon\Entity\bin\Debug\Entity.dll
+C:\Users\xuxut\Downloads\TaoHoaDon\Entity\bin\Debug\Entity.pdb
+C:\Users\xuxut\Downloads\TaoHoaDon\Entity\obj\Debug\Entity.dll
+C:\Users\xuxut\Downloads\TaoHoaDon\Entity\obj\Debug\Entity.pdb
+C:\Users\xuxut\Downloads\TaoHoaDon\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaoHoaDon\Entity\bin\Debug\Entity.dll
+C:\Users\Admin\Desktop\TaoHoaDon\Entity\bin\Debug\Entity.pdb
+C:\Users\Admin\Desktop\TaoHoaDon\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\TaoHoaDon\Entity\obj\Debug\Entity.dll
+C:\Users\Admin\Desktop\TaoHoaDon\Entity\obj\Debug\Entity.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Entity\bin\Debug\Entity.dll
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Entity\bin\Debug\Entity.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Entity\obj\Debug\Entity.dll
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Entity\obj\Debug\Entity.pdb
+C:\Users\xuxut\Documents\Zalo Received Files\TaoHoaDon\TaoHoaDon\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
