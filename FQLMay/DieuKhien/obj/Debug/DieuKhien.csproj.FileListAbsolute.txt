@@ -1,0 +1,7 @@
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\bin\Debug\DieuKhien.dll
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\bin\Debug\DieuKhien.pdb
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\bin\Debug\ThucThe.dll
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\bin\Debug\ThucThe.pdb
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\obj\Debug\DieuKhien.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\obj\Debug\DieuKhien.dll
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\DieuKhien\obj\Debug\DieuKhien.pdb

@@ -1,0 +1,5 @@
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\ThucThe\obj\Debug\ThucThe.csprojResolveAssemblyReference.cache
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\ThucThe\bin\Debug\ThucThe.dll
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\ThucThe\bin\Debug\ThucThe.pdb
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\ThucThe\obj\Debug\ThucThe.dll
+c:\Users\Admin\documents\visual studio 2013\Projects\FQLMay\ThucThe\obj\Debug\ThucThe.pdb

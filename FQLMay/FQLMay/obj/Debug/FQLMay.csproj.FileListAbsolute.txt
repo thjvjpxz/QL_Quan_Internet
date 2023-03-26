@@ -1,0 +1,13 @@
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\FQLMay.exe.config
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\obj\Debug\FQLMay.csprojResolveAssemblyReference.cache
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\obj\Debug\FQLMay.Form1.resources
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\obj\Debug\FQLMay.Properties.Resources.resources
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\obj\Debug\FQLMay.csproj.GenerateResource.Cache
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\FQLMay.exe
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\FQLMay.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\DieuKhien.dll
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\ThucThe.dll
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\DieuKhien.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\bin\Debug\ThucThe.pdb
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\obj\Debug\FQLMay.exe
+c:\users\admin\documents\visual studio 2013\Projects\FQLMay\FQLMay\obj\Debug\FQLMay.pdb
