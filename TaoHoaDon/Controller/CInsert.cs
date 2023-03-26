@@ -15,7 +15,7 @@ namespace Controller
             a = new EInsertToHD();
         }
 
-        public void insert(int ma, int id, int sl)
+        public void insert(int ma, string id, int sl)
         {
             a.insertToHD(ma, id, sl);
         }
