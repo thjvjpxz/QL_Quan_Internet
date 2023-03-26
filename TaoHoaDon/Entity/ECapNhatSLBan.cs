@@ -15,7 +15,7 @@ namespace Entity
             hd = new HoaDon();
         }
 
-        public void CapNhatSLBan(int IDSP, int soluong)
+        public void CapNhatSLBan(string IDSP, int soluong)
         {
             hd.CapNhatSLBan(IDSP, soluong);
         }
