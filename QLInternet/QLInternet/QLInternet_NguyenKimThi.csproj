@@ -1,0 +1,209 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{EFE62B00-E921-4CFF-B7BB-26D1BFF1AF44}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>QLInternet</RootNamespace>
+    <AssemblyName>QLInternet</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FormXemTTPC.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormXemTTPC.designer.cs">
+      <DependentUpon>FormXemTTPC.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmBackground.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmBackground.Designer.cs">
+      <DependentUpon>FrmBackground.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmChuyen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmChuyen.Designer.cs">
+      <DependentUpon>FrmChuyen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmDongMay.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmDongMay.Designer.cs">
+      <DependentUpon>FrmDongMay.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmMain.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMain.Designer.cs">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNap.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNap.Designer.cs">
+      <DependentUpon>FrmNap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FromLoginStart\FrmLoginStart.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FromLoginStart\FrmLoginStart.Designer.cs">
+      <DependentUpon>FrmLoginStart.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmNapTien.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmNapTien.Designer.cs">
+      <DependentUpon>FrmNapTien.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FormXemTTPC.resx">
+      <DependentUpon>FormXemTTPC.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmBackground.resx">
+      <DependentUpon>FrmBackground.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmChuyen.resx">
+      <DependentUpon>FrmChuyen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmDongMay.resx">
+      <DependentUpon>FrmDongMay.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmMain.resx">
+      <DependentUpon>FrmMain.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNap.resx">
+      <DependentUpon>FrmNap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FromLoginStart\FrmLoginStart.resx">
+      <DependentUpon>FrmLoginStart.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmNapTien.resx">
+      <DependentUpon>FrmNapTien.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Controller\Controller.csproj">
+      <Project>{aa2d0332-5f6a-4f0d-b52d-feb0bd44c841}</Project>
+      <Name>Controller</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\KIMTHI\Documents\Zalo Received Files\QLy_Dai_Ly2\QLy_Dai_Ly2\QLDL_NguyenThanhTam.csproj">
+      <Project>{5012a2ca-3de5-40ff-8dec-6667d2582abe}</Project>
+      <Name>QLDL_NguyenThanhTam</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\KIMTHI\Documents\Zalo Received Files\Thong_ke%282%29\Thong_ke%282%29\ThongKe_NguyenThanhTam.csproj">
+      <Project>{630d90ff-d8ff-4041-aa98-092861fd7a5f}</Project>
+      <Name>ThongKe_NguyenThanhTam</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\KIMTHI\Downloads\QL_Quan_Internet-CongThang\FQLMay\FQLMay\QLM_VuCongThang.csproj">
+      <Project>{18f45aae-6cb5-4b3b-a7bd-de3ef6bafc73}</Project>
+      <Name>QLM_VuCongThang</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\KIMTHI\Downloads\QL_Quan_Internet-QuangThang %281%29\QL_Quan_Internet-QuangThang\TaoHoaDon\TaoHoaDon\TaoHoaDon_QThang_CThang.csproj">
+      <Project>{45f27349-86e4-4301-a84c-08bff3fce98a}</Project>
+      <Name>TaoHoaDon_QThang_CThang</Name>
+    </ProjectReference>
+    <ProjectReference Include="C:\Users\KIMTHI\Downloads\QL_Quan_Internet-QuangThang\QLTK\QLTK\QLTK_NghiemQuangThang.csproj">
+      <Project>{c12ac82f-8fea-476e-b1cc-e1cd3e6f209a}</Project>
+      <Name>QLTK_NghiemQuangThang</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
