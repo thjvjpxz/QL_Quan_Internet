@@ -1,0 +1,5 @@
+E:\PTTKHTTT\QLInternet\Entity\bin\Debug\Entity.dll
+E:\PTTKHTTT\QLInternet\Entity\bin\Debug\Entity.pdb
+E:\PTTKHTTT\QLInternet\Entity\obj\Debug\Entity.csprojResolveAssemblyReference.cache
+E:\PTTKHTTT\QLInternet\Entity\obj\Debug\Entity.dll
+E:\PTTKHTTT\QLInternet\Entity\obj\Debug\Entity.pdb

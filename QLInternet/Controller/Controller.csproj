@@ -1,0 +1,87 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{AA2D0332-5F6A-4F0D-B52D-FEB0BD44C841}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Controller</RootNamespace>
+    <AssemblyName>Controller</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="NguyenKimThi\CNapTien.cs" />
+    <Compile Include="NguyenKimThi\CTrangThai.cs" />
+    <Compile Include="NghiemQuangThang\CDoDL.cs" />
+    <Compile Include="NghiemQuangThang\CDoiMK.cs" />
+    <Compile Include="NghiemQuangThang\CSearch.cs" />
+    <Compile Include="NghiemQuangThang\CTaoTK.cs" />
+    <Compile Include="NghiemQuangThang\CXoa.cs" />
+    <Compile Include="NguyenThanhTam\CSuaDaiLy.cs" />
+    <Compile Include="NguyenThanhTam\Ctrl.cs" />
+    <Compile Include="NguyenThanhTam\ctrl_thongke.cs" />
+    <Compile Include="NguyenThanhTam\CXoaDaiLy.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="QThang_CThang\CAddHD.cs" />
+    <Compile Include="QThang_CThang\CAddSP.cs" />
+    <Compile Include="QThang_CThang\CCapNhatSLBan.cs" />
+    <Compile Include="QThang_CThang\CCheckSP.cs" />
+    <Compile Include="QThang_CThang\CFindSP.cs" />
+    <Compile Include="QThang_CThang\CGetBangDoAn.cs" />
+    <Compile Include="QThang_CThang\CGetBangDoUong.cs" />
+    <Compile Include="QThang_CThang\CGetBangThe.cs" />
+    <Compile Include="QThang_CThang\CGetMon.cs" />
+    <Compile Include="QThang_CThang\CInsert.cs" />
+    <Compile Include="QThang_CThang\CXoaSP.cs" />
+    <Compile Include="VuCongThang\CAddMay.cs" />
+    <Compile Include="VuCongThang\CCheckMay.cs" />
+    <Compile Include="VuCongThang\CDeleteMay.cs" />
+    <Compile Include="VuCongThang\CFindMay.cs" />
+    <Compile Include="VuCongThang\CUpdateMay.cs" />
+    <Compile Include="VuCongThang\GetThongTIn.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Entity\Entity.csproj">
+      <Project>{d7433306-5028-4ed4-a289-5eff7a3a3961}</Project>
+      <Name>Entity</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
